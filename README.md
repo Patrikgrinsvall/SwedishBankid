@@ -1,6 +1,6 @@
 # Swedish BankId
 
-Insomnia and Postman collections for Swedish Test BankId.
+Insomnia collection and other information on how to use Swedish Test BankId.
 
 # How to use
 
