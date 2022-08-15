@@ -1,6 +1,6 @@
 # Swedish BankId Insomnia / Postman collection and instructions
 
-Insomnia collection and other information on how to use Swedish Test BankId.
+Insomnia collection and other information on how to use Swedish Test BankId. *note* a valid swedish personal number that is easy to remember is: 000101-1212, or in correct format 200001011212
 
 ## How to use
 
